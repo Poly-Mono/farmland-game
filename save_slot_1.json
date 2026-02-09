@@ -1,0 +1,423 @@
+{
+    "character_name": "asds",
+    "player_money": 10,
+    "inventory": {
+        "seeds": {},
+        "harvest": {}
+    },
+    "planted_seeds": [
+        [
+            "Eggplant",
+            [
+                1045,
+                452
+            ],
+            1770632981.9517837
+        ],
+        [
+            "Carrot",
+            [
+                971,
+                453
+            ],
+            1770632984.3127918
+        ],
+        [
+            "Carrot",
+            [
+                1013,
+                493
+            ],
+            1770632984.5805092
+        ],
+        [
+            "Carrot",
+            [
+                1049,
+                525
+            ],
+            1770632984.8600183
+        ],
+        [
+            "Carrot",
+            [
+                1064,
+                551
+            ],
+            1770632985.0606935
+        ],
+        [
+            "Carrot",
+            [
+                1020,
+                574
+            ],
+            1770632985.2627819
+        ],
+        [
+            "Carrot",
+            [
+                990,
+                559
+            ],
+            1770632985.4643877
+        ],
+        [
+            "Carrot",
+            [
+                1063,
+                626
+            ],
+            1770632985.6493056
+        ],
+        [
+            "Carrot",
+            [
+                1107,
+                612
+            ],
+            1770632985.833042
+        ],
+        [
+            "Carrot",
+            [
+                1116,
+                536
+            ],
+            1770632985.9836938
+        ],
+        [
+            "Carrot",
+            [
+                1116,
+                530
+            ],
+            1770632986.0683062
+        ],
+        [
+            "Carrot",
+            [
+                1106,
+                463
+            ],
+            1770632986.4140449
+        ],
+        [
+            "Carrot",
+            [
+                1116,
+                438
+            ],
+            1770632986.615344
+        ],
+        [
+            "Carrot",
+            [
+                1134,
+                455
+            ],
+            1770632986.8145194
+        ],
+        [
+            "Carrot",
+            [
+                1140,
+                511
+            ],
+            1770632987.0139308
+        ],
+        [
+            "Carrot",
+            [
+                1150,
+                558
+            ],
+            1770632987.1811488
+        ],
+        [
+            "Carrot",
+            [
+                1163,
+                580
+            ],
+            1770632987.3634562
+        ],
+        [
+            "Carrot",
+            [
+                1129,
+                614
+            ],
+            1770632987.5655015
+        ],
+        [
+            "Carrot",
+            [
+                1062,
+                605
+            ],
+            1770632987.765482
+        ],
+        [
+            "Carrot",
+            [
+                1012,
+                602
+            ],
+            1770632987.9140155
+        ],
+        [
+            "Carrot",
+            [
+                956,
+                598
+            ],
+            1770632988.096466
+        ],
+        [
+            "Carrot",
+            [
+                964,
+                620
+            ],
+            1770632988.281735
+        ],
+        [
+            "Carrot",
+            [
+                1035,
+                642
+            ],
+            1770632988.480846
+        ],
+        [
+            "Carrot",
+            [
+                1109,
+                626
+            ],
+            1770632988.6827543
+        ]
+    ],
+    "achievements": {
+        "money": [
+            {
+                "threshold": 1000,
+                "title": "Thousands",
+                "unlocked": false,
+                "desc": "Reach $1,000"
+            },
+            {
+                "threshold": 10000,
+                "title": "Ten Thousands",
+                "unlocked": false,
+                "desc": "Reach $10,000"
+            },
+            {
+                "threshold": 100000,
+                "title": "Hundred Thousands",
+                "unlocked": false,
+                "desc": "Reach $100,000"
+            },
+            {
+                "threshold": 1000000,
+                "title": "Millionaire",
+                "unlocked": false,
+                "desc": "Reach $1,000,000"
+            },
+            {
+                "threshold": 10000000,
+                "title": "10x Millionaire",
+                "unlocked": false,
+                "desc": "Reach $10,000,000"
+            },
+            {
+                "threshold": 100000000,
+                "title": "100x Millionaire",
+                "unlocked": false,
+                "desc": "Reach $100,000,000"
+            },
+            {
+                "threshold": 1000000000,
+                "title": "Billionaire",
+                "unlocked": false,
+                "desc": "Reach $1,000,000,000"
+            },
+            {
+                "threshold": 10000000000,
+                "title": "10x Billionaire",
+                "unlocked": false,
+                "desc": "Reach $10,000,000,000"
+            },
+            {
+                "threshold": 100000000000,
+                "title": "100x Billionaire",
+                "unlocked": false,
+                "desc": "Reach $100,000,000,000"
+            }
+        ],
+        "purchases": [
+            {
+                "item": "Tomato",
+                "target": 100,
+                "title": "Tomato Lover",
+                "unlocked": false,
+                "current": 0,
+                "desc": "Buy 100 Tomatoes"
+            },
+            {
+                "item": "Carrot",
+                "target": 100,
+                "title": "Carrot Lover",
+                "unlocked": false,
+                "current": 32,
+                "desc": "Buy 100 Carrots"
+            },
+            {
+                "item": "Banana",
+                "target": 100,
+                "title": "Banana Lover",
+                "unlocked": false,
+                "current": 0,
+                "desc": "Buy 100 Bananas"
+            },
+            {
+                "item": "Apple",
+                "target": 100,
+                "title": "Apple Lover",
+                "unlocked": false,
+                "current": 3,
+                "desc": "Buy 100 Apples"
+            },
+            {
+                "item": "Cacao",
+                "target": 100,
+                "title": "Chocolate Lover",
+                "unlocked": false,
+                "current": 0,
+                "desc": "Buy 100 Cacao"
+            },
+            {
+                "item": "Chili",
+                "target": 100,
+                "title": "Spicy Lover",
+                "unlocked": false,
+                "current": 0,
+                "desc": "Buy 100 Chilies"
+            },
+            {
+                "item": "Cucumber",
+                "target": 100,
+                "title": "Cucumber Lover",
+                "unlocked": false,
+                "current": 0,
+                "desc": "Buy 100 Cucumbers"
+            },
+            {
+                "item": "Eggplant",
+                "target": 100,
+                "title": "Eggplant Lover",
+                "unlocked": false,
+                "current": 3,
+                "desc": "Buy 100 Eggplants"
+            },
+            {
+                "item": "Grape",
+                "target": 100,
+                "title": "Grape Lover",
+                "unlocked": false,
+                "current": 0,
+                "desc": "Buy 100 Grapes"
+            },
+            {
+                "item": "Lemon",
+                "target": 100,
+                "title": "Lemon Lover",
+                "unlocked": false,
+                "current": 0,
+                "desc": "Buy 100 Lemons"
+            },
+            {
+                "item": "Lime",
+                "target": 100,
+                "title": "Lime Lover",
+                "unlocked": false,
+                "current": 0,
+                "desc": "Buy 100 Limes"
+            },
+            {
+                "item": "Mango",
+                "target": 100,
+                "title": "Mango Lover",
+                "unlocked": false,
+                "current": 0,
+                "desc": "Buy 100 Mangos"
+            },
+            {
+                "item": "Orange",
+                "target": 100,
+                "title": "Orange Lover",
+                "unlocked": false,
+                "current": 0,
+                "desc": "Buy 100 Oranges"
+            },
+            {
+                "item": "Pineapple",
+                "target": 100,
+                "title": "Spongebob Lover",
+                "unlocked": false,
+                "current": 0,
+                "desc": "Buy 100 Pineapples"
+            },
+            {
+                "item": "Potato",
+                "target": 100,
+                "title": "Potato Lover",
+                "unlocked": false,
+                "current": 0,
+                "desc": "Buy 100 Potatoes"
+            },
+            {
+                "item": "Strawberry",
+                "target": 100,
+                "title": "Strawberry Lover",
+                "unlocked": false,
+                "current": 0,
+                "desc": "Buy 100 Strawberries"
+            },
+            {
+                "item": "Vanilla",
+                "target": 100,
+                "title": "Vanilla Lover",
+                "unlocked": false,
+                "current": 0,
+                "desc": "Buy 100 Vanilla"
+            },
+            {
+                "item": "Watermelon",
+                "target": 100,
+                "title": "Watermelon Lover",
+                "unlocked": false,
+                "current": 0,
+                "desc": "Buy 100 Watermelons"
+            }
+        ]
+    },
+    "current_quests": [],
+    "completed_quests": [
+        {
+            "id": 1,
+            "title": "First Harvest",
+            "description": "Grow and collect 3 Apples",
+            "required_item": "Apple",
+            "required_count": 3,
+            "reward_money": 50,
+            "reward_items": [],
+            "completed": true,
+            "active": false
+        }
+    ],
+    "carrotfest_active": true,
+    "carrotfest_end_time": 1770632997.551271,
+    "carrotfest_original_price": 30
+}
